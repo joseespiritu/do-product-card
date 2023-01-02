@@ -1,4 +1,4 @@
-# DO-Product-Card
+# JLME-Product-Card
 
 Este es un paquete de purebas de despliegue en NPM
 
@@ -7,7 +7,7 @@ Este es un paquete de purebas de despliegue en NPM
 ## Ejemplo
 
 ```
-import {ProductCard, ProductButtons, ProductImage, ProductTitle} from 'do-product-card';
+import {ProductCard, ProductButtons, ProductImage, ProductTitle} from 'jlme-product-card';
 ```
 
 ```
